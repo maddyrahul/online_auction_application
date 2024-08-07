@@ -1,0 +1,176 @@
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\appsettings.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.exe
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.deps.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.runtimeconfig.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.AssemblyInfoInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.AssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.Presentation_Layer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\scopedcss\bundle\Presentation_Layer.styles.css
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presenta.B08D3F22.Up2Date
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\refint\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.genruntimeconfig.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\ref\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Scrutor.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\appsettings.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.exe
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.deps.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.runtimeconfig.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Presentation_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Scrutor.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.AssemblyInfoInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.AssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.Presentation_Layer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation_Layer.props
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\scopedcss\bundle\Presentation_Layer.styles.css
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presenta.B08D3F22.Up2Date
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\refint\Presentation_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\Presentation_Layer.genruntimeconfig.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Presentation_Layer\obj\Debug\net6.0\ref\Presentation_Layer.dll

@@ -1,0 +1,30 @@
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.deps.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.AssemblyInfoInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.AssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business.3851A4FC.Up2Date
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\refint\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction_Web_API\Business_Layer\obj\Debug\net6.0\ref\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.deps.json
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.AssemblyInfoInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.AssemblyInfo.cs
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business.3851A4FC.Up2Date
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\refint\Business_Layer.dll
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\Business_Layer.pdb
+C:\Users\rahulmaddheshiya\OneDrive - Nagarro\Desktop\Auction Application\Auction_Web_API\Business_Layer\obj\Debug\net6.0\ref\Business_Layer.dll
